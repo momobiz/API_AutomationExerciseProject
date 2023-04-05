@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-05T07:51:55 CEST" name="Suite" finished-at="2023-04-05T07:52:01 CEST" duration-ms="5625">
+    <groups>
+    </groups>
+    <test started-at="2023-04-05T07:51:55 CEST" name="Test" finished-at="2023-04-05T07:52:01 CEST" duration-ms="5625">
+      <class name="test.TestApi">
+        <test-method is-config="true" signature="readconfig()[pri:0, instance:test.TestApi@186f8716]" started-at="2023-04-05T07:51:55 CEST" name="readconfig" finished-at="2023-04-05T07:51:56 CEST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readconfig -->
+        <test-method signature="testGetAllProductsList()[pri:1, instance:test.TestApi@186f8716]" started-at="2023-04-05T07:51:56 CEST" name="testGetAllProductsList" finished-at="2023-04-05T07:51:58 CEST" duration-ms="2252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllProductsList -->
+        <test-method signature="testPOSTToAllProductsList()[pri:2, instance:test.TestApi@186f8716]" started-at="2023-04-05T07:51:58 CEST" name="testPOSTToAllProductsList" finished-at="2023-04-05T07:51:59 CEST" duration-ms="915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOSTToAllProductsList -->
+        <test-method signature="testGetAllBrandsList()[pri:3, instance:test.TestApi@186f8716]" started-at="2023-04-05T07:51:59 CEST" name="testGetAllBrandsList" finished-at="2023-04-05T07:52:00 CEST" duration-ms="886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllBrandsList -->
+        <test-method signature="testPUTToAllBrandsList()[pri:4, instance:test.TestApi@186f8716]" started-at="2023-04-05T07:52:00 CEST" name="testPUTToAllBrandsList" finished-at="2023-04-05T07:52:01 CEST" duration-ms="869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPUTToAllBrandsList -->
+      </class> <!-- test.TestApi -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
